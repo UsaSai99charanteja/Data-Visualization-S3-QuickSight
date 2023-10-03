@@ -40,7 +40,7 @@ Working to create a data Visualizations with AWS S3 and AWS QuickSight with larg
 
 
 
-The process was streamlined, thanks to S3's scalable storage and QuickSight's user-friendly interface. This dynamic combination ensures that businesses can make informed decisions in real time.
+The process was streamlined, thanks to S3's scalable storage and QuickSight's user-friendly interface. This dynamic combination ensures that businesses can make informed decisions in real-time.
 
 
 
